@@ -1,0 +1,17 @@
+[
+    {
+        "ime": "Marija",
+        "utisak": "Njihovi proizvodi su stvarno odlicni, sve pohvale.",
+        "slika": "https://randomuser.me/api/portraits/women/72.jpg"
+    },
+    {
+        "ime": "Darija",
+        "utisak": "Nista ne radi, vratite nam pare!",
+        "slika": "https://randomuser.me/api/portraits/women/64.jpg"
+    },
+    {
+        "ime": "Petar",
+        "utisak": "Dogovor ispostovan, sve ok",
+        "slika": "https://randomuser.me/api/portraits/men/68.jpg"
+    }
+]

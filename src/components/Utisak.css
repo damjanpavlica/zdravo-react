@@ -1,0 +1,12 @@
+.user-img {
+    border-radius: 50%;
+    width: 50px;
+}
+
+.active {
+    border: 1px dashed brown;
+}
+
+.active cite {
+    color: crimson;
+}
